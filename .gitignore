@@ -3,5 +3,4 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-/.idea/.idea.HelloWorld/.idea/sonarlint/issuestore/index.pb
-/.idea/.idea.HelloWorld/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/
